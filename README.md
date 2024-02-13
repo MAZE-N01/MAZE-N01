@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mazen Emad</h1>
 <h3 align="center">A Passionate student and Software developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maze-n01&label=Profile%20views&color=0e75b6&style=flat" alt="maze-n01" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maze-n01&label=Profile%20views&color=1F75FE&style=badge" alt="maze-n01" /> </p>
 
 - 🌍 I'm currently based in Cairo
 - 👨‍💻 I’m currently learning **Pandas && ML**
