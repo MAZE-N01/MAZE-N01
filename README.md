@@ -1,11 +1,14 @@
 [![MasterHead](https://storage.googleapis.com/replit/images/1686628398900_9650e8f289c3333cdff29f8d00a77e06.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Mazen Emad</h1>
-<h3 align="center">A Passionate student and Software developer</h3>
+<h1 align="center">Greetings, Digital Explorers!, I'm Mazen👋</h1>
+<h3 align="left">Software Engineer - AI Developer</h3>
+
+✨ Embarking on a journey through the future with AI/ML - where creativity meets computation. Through innovations in Machine Learning, the precision of Deep Learning, and the impactful stories of NLP, I am an AI/ML Developer open to collaboration on open-source projects and seeking new opportunities. ✨
+
+- 🌍 Connect with me on : [LinkedIn](www.linkedin.com/in/mazenemad615)
+- 🔮 Explore some of my work here: [My Projects](https://github.com/MAZE-N01)
+- 👨‍💻 Currently enhancing my skills in Pandas, TensorFlow, and Machine Learning algorithms.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maze-n01&label=Profile%20views&color=1F75FE&style=badge" alt="maze-n01" /> </p>
-
-- 🌍 I'm currently based in Cairo
-- 👨‍💻 I’m currently learning **Pandas && ML**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,8 +36,6 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/MAZE-N01/MAZE-N01/assets/129573109/25049a11-9975-4366-b8d5-2a55ebffa57e" alt="unity" alt="unity" width="40" height="40"/> </a> 
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://www.pngfind.com/pngs/b/433-4337000_unreal-engine-png.png" alt="unreal" width="40" height="40"/> </a>
 <br>
-
-
 
 
 
