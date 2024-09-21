@@ -4,7 +4,7 @@
 
 ✨ Embarking on a journey through the future with AI/ML - where creativity meets computation. Through innovations in Machine Learning, the precision of Deep Learning, and the impactful stories of NLP, I am an AI/ML Developer open to collaboration on open-source projects and seeking new opportunities. ✨
 
-- 🌍 Connect with me on : [LinkedIn](www.linkedin.com/in/mazenemad615)
+- 🌍 Connect with me on : [LinkedIn](https://www.linkedin.com/in/mazenemad/)
 - 🔮 Explore some of my work here: [My Projects](https://github.com/MAZE-N01)
 - 👨‍💻 Currently enhancing my skills in Pandas, TensorFlow, and Machine Learning algorithms.
 
