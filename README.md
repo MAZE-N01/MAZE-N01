@@ -5,8 +5,9 @@
 ✨ Embarking on a journey through the future with AI/ML - where creativity meets computation. Through innovations in Machine Learning, the precision of Deep Learning, and the impactful stories of NLP, I am an AI/ML Developer open to collaboration on open-source projects and seeking new opportunities. ✨
 
 - 🌍 Connect with me on : [LinkedIn](https://www.linkedin.com/in/mazenemad/)
+- 📝 My Resume : [Resume](https://drive.google.com/file/d/1qWj14_jbCdkFrGrzIm-wQGnBRxyecDrZ/view)
 - 🔮 Explore some of my work here: [My Projects](https://github.com/MAZE-N01)
-- 👨‍💻 Currently enhancing my skills in Pandas, TensorFlow, and Machine Learning algorithms.
+- 👨‍💻 Currently enhancing my skills in Deep learning & NLP.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maze-n01&label=Profile%20views&color=1F75FE&style=badge" alt="maze-n01" /> </p>
 
