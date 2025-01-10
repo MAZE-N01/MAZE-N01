@@ -41,10 +41,10 @@
 
 
 <div class='container'>
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=maze-n01&show_icons=true&locale=en&theme=blue-green" alt="maze-n0" />
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=maze-n01&show_icons=true&locale=en&theme=blue-green" alt="maze-n01" />
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs?username=maze-n01&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="maze-n0" /></div>
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs?username=maze-n01&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="maze-n01" /></div>
 </div>
 
 <div align="center">
