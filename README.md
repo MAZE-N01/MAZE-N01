@@ -1,6 +1,6 @@
 [![MasterHead](https://storage.googleapis.com/replit/images/1686628398900_9650e8f289c3333cdff29f8d00a77e06.gif)](https://rishavchanda.io)
 <h1 align="center">Greetings There, I'm Mazen👋</h1>
-<h3 align="left">AI/ML Developer</h3>
+<h3 align="left">AI/ML Developer</h3> 
 
 ✨ Embarking on a journey through the future with AI/ML - where creativity meets computation. Through innovations in Machine Learning, the precision of Deep Learning, and the impactful stories of NLP, I am an AI/ML Developer open to collaboration on open-source projects and seeking new opportunities. ✨
 
