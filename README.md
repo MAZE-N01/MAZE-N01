@@ -39,13 +39,11 @@ Embarking on a journey through the future with AI/ML - where creativity meets co
 <br>
 
  
-<!--
 <div class='container'>
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=maze-n01&show_icons=true&locale=en&theme=blue-green" alt="maze-n01" />
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats-rust-two-71.vercel.app/api?username=maze-n01&show_icons=true&locale=en&theme=blue-green" alt="maze-n01" />
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs?username=maze-n01&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="maze-n01" /></div> </div>
--->
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats-rust-two-71.vercel.app/api/top-langs?username=maze-n01&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="maze-n01" /></div> </div>
 
 <div align="center">
   <h2>My Contributions</h2>
