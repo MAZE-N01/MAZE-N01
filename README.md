@@ -2,7 +2,7 @@
 <h1 align="center">Greetings There, I'm Mazen👋</h1>
 <h3 align="left">AI/ML Developer</h3> 
 
-✨ Embarking on a journey through the future with AI/ML - where creativity meets computation. Through innovations in Machine Learning, the precision of Deep Learning, and the impactful stories of NLP, I am an AI/ML Developer open to collaboration on open-source projects and seeking new opportunities. ✨
+Embarking on a journey through the future with AI/ML - where creativity meets computation. Through innovations in Machine Learning, the precision of Deep Learning, and the impactful stories of NLP, I am an AI/ML Developer open to collaboration on open-source projects and seeking new opportunities.
 
 - 📝 My Resume : [Resume](https://drive.google.com/file/d/1qWj14_jbCdkFrGrzIm-wQGnBRxyecDrZ/view)
 - 🌍 Connect with me on : [LinkedIn](https://www.linkedin.com/in/mazenemad/)
