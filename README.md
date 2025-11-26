@@ -33,19 +33,19 @@ Embarking on a journey through the future with AI/ML - where creativity meets co
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/4542585?s=280&v=4" alt="photoshop" width="40" height="40"/> </a>
   <a href="https://www.image-line.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/MAZE-N01/MAZE-N01/assets/129573109/3d34d03a-6d42-492f-b3c5-68d9942947ed" alt="FlStudio" width="40" height="40"/> </a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://icons.veryicon.com/png/System/Captiva/blender.png" alt="blender" width="40" height="40"/> </a> 
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/></a> 
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/MAZE-N01/MAZE-N01/assets/129573109/25049a11-9975-4366-b8d5-2a55ebffa57e" alt="unity" alt="unity" width="40" height="40"/> </a> 
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://www.pngfind.com/pngs/b/433-4337000_unreal-engine-png.png" alt="unreal" width="40" height="40"/> </a>
 <br>
 
  
-
+<!--
 <div class='container'>
 <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=maze-n01&show_icons=true&locale=en&theme=blue-green" alt="maze-n01" />
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs?username=maze-n01&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="maze-n01" /></div>
-</div>
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs?username=maze-n01&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="maze-n01" /></div> </div>
+-->
 
 <div align="center">
   <h2>My Contributions</h2>
