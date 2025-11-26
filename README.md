@@ -4,7 +4,7 @@
 
 Embarking on a journey through the future with AI/ML - where creativity meets computation. Through innovations in Machine Learning, the precision of Deep Learning, and the impactful stories of NLP, I am an AI/ML Developer open to collaboration on open-source projects and seeking new opportunities.
 
-- 📝 My Resume : [Resume](https://drive.google.com/file/d/1qWj14_jbCdkFrGrzIm-wQGnBRxyecDrZ/view)
+- 📝 My Resume : [Resume](https://drive.google.com/file/d/1muF7ifeOzH2GnxtiCl8yYXCY8uThEvUj/view?usp=sharing)
 - 🌍 Connect with me on : [LinkedIn](https://www.linkedin.com/in/mazenemad/)
 - 🔮 Explore some of my work here: [My Projects](https://github.com/MAZE-N01?tab=repositories)
 - 👨‍💻 Currently enhancing my skills in Deep learning & NLP.
