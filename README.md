@@ -12,48 +12,40 @@ Embarking on a journey through the future with AI/ML - where creativity meets co
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maze-n01&label=Profile%20views&color=1F75FE&style=badge" alt="maze-n01" /> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-
-
-<h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mazenemad/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  
-  <a href="https://www.facebook.com/profile.php?id=51164848527500315" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-  </a>
-  
-  <a href="https://www.kaggle.com/mazenemad81" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
-  </a>
-  
-  <a href="https://codeforces.com/profile/mazen_emad." target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" />
-  </a>
-  
-  <a href="https://www.hackerrank.com/maze_nn" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/mazenemad/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+</a>
+<a href="https://www.facebook.com/profile.php?id=51164848527500315" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40"/>
+</a>
+<a href="https://www.kaggle.com/mazenemad81" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="40"/>
+</a>
+<a href="https://codeforces.com/profile/mazen_emad." target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="40"/>
+</a>
+<a href="https://www.hackerrank.com/maze_nn" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40"/>
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-  <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  
-  <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a target="_blank" rel="noreferrer"> <img src="https://images.ctfassets.net/o7xu9whrs0u9/3wmYS3g0nAFXJggA2aQskT/879edc25907953b6d1f30deb7e7f58f7/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="c" width="40" height="40"/> </a>
-  <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-  <a target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/4542585?s=280&v=4" alt="photoshop" width="40" height="40"/> </a>
-  <a target="_blank" rel="noreferrer"> <img src="https://github.com/MAZE-N01/MAZE-N01/assets/129573109/3d34d03a-6d42-492f-b3c5-68d9942947ed" alt="FlStudio" width="40" height="40"/> </a>
-  <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/></a> 
-  <a target="_blank" rel="noreferrer"> <img src="https://github.com/MAZE-N01/MAZE-N01/assets/129573109/25049a11-9975-4366-b8d5-2a55ebffa57e" alt="unity" alt="unity" width="40" height="40"/> </a> 
-  <a target="_blank" rel="noreferrer"> <img src="https://www.pngfind.com/pngs/b/433-4337000_unreal-engine-png.png" alt="unreal" width="40" height="40"/> </a>
-<br>
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://images.ctfassets.net/o7xu9whrs0u9/3wmYS3g0nAFXJggA2aQskT/879edc25907953b6d1f30deb7e7f58f7/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/>
+<img src="https://avatars.githubusercontent.com/u/4542585?s=280&v=4" width="40"/>
+<img src="https://github.com/MAZE-N01/MAZE-N01/assets/129573109/3d34d03a-6d42-492f-b3c5-68d9942947ed" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" width="40"/>
+<img src="https://github.com/MAZE-N01/MAZE-N01/assets/129573109/25049a11-9975-4366-b8d5-2a55ebffa57e" width="40"/>
+<img src="https://www.pngfind.com/pngs/b/433-4337000_unreal-engine-png.png" width="40"/>
+</p>
 
  
 <div class='container'>
